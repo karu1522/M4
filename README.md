@@ -196,7 +196,7 @@ Step 8: End the program.
   printf("Enter the first string: ");
     scanf(" %[^\n]", c1); 
     printf("Enter the second string: ");
-    scanf(" %s", c2); 
+    scanf(" %[^\n]", c2); 
     while (c1[i] != '\0' && c2[i] != '\0') {
         if (c1[i] != c2[i]) {
             flag = 1;
@@ -214,11 +214,10 @@ Step 8: End the program.
  ```
 ## OUTPUT
  
-![image](https://github.com/user-attachments/assets/723659be-53c0-43f4-afac-326ec234671b)
+![image](https://github.com/user-attachments/assets/b2615724-e190-43ac-8fd4-f4d927433bf4)
 
-![image](https://github.com/user-attachments/assets/1f6ee921-0081-446a-abcd-1785ce99e87e)
+![image](https://github.com/user-attachments/assets/3ba656c3-f5f5-4fc9-883e-b61302d74f12)
 
-![image](https://github.com/user-attachments/assets/01659ba9-0a91-43fa-8b1b-b69d9cd6136d)
 
 
 ## RESULT
