@@ -214,7 +214,12 @@ Step 8: End the program.
  ```
 ## OUTPUT
  
-![image](https://github.com/user-attachments/assets/578bcff6-1010-4259-9854-7aa673895e59)
+![image](https://github.com/user-attachments/assets/723659be-53c0-43f4-afac-326ec234671b)
+
+![image](https://github.com/user-attachments/assets/1f6ee921-0081-446a-abcd-1785ce99e87e)
+
+![image](https://github.com/user-attachments/assets/01659ba9-0a91-43fa-8b1b-b69d9cd6136d)
+
 
 ## RESULT
 Thus the C Program to compare two strings without using strcmp() has been executed successfully.
